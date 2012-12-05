@@ -1,0 +1,122 @@
+Overview
+========
+
+I have a lot of accounts, on a lot of different websites. Some of them I use
+almost everyday (like gmail), some of them give access to very sensitive
+information (like paypal), some other I are used in a passive way (like
+dropbox) and some of them I've only use once or twice (like online shops).
+
+This is my try on organizing this mess my account and password information has
+become. Here I'll try to give advice and guidelines that I do follow. Feel free
+to follow them too.
+
+What are the risks ?
+--------------------
+
+What you need to understand is that some websites are more secure than others,
+and none are 100% secure. Given enough time, every website, will be
+compromised. No service can offer a complete guarantee of being absolutely
+secure.
+
+Once you understand that, you do put a bit more time in making your own online
+accounts as safe as possible.
+
+The other important thing to understand is that any security scheme is as
+strong as the weakest element in the chain. You might think that it is no big
+deal if someone manage to obtain access to your mylittlecuteshop.com because
+you only ever ordered one thing on that website 3 years ago and you did not
+give any important information to that website anyway.
+
+Your date of birth ? You already have it publicly displayed on Facebook anyway.
+Your address ? You no longer live at that place. So, really, why should you
+care that someone got access to that account ?
+
+Well, maybe because you did use the same password for that account and for
+another website. Maybe even for your gmail account ? Ouch, that would be bad.
+You have a ton of important information available in your gmail account. Love
+letters, billing information, job resume, private pictures, etc. But more
+importantly, whoever has access to your email can potentially get access to
+most of your online account using the "I forgot my password" like that most
+site offer and that send a reset password link by email... to that very own
+address that is already compromised.
+
+Now that you are now more aware of the risks, let's see what we can do to
+mitigate all this.
+
+
+Never use the same password twice
+---------------------------------
+
+As outlined above, it is crucial to never use the same password twice. That
+way, even if someone manage to get access to a weak link, he won't be able to
+get access to more important informations from that password.
+
+The easiest way to do that without having your head exploding is to use
+a password manager application. This is a small app where you can save all your
+login and passwords. The app itself is protected with a master password (the
+only one you absolutly have to remember, so make it super-strong). There are
+a few out there for different OS, but I personnally use KeePassX.
+
+Make your passwords strong
+--------------------------
+
+I just said that you should make the master password super-strong. This is
+absolutly true. But this does not mean that any other password should be weak.
+All your passwords should be strong.
+
+You probably have heard a lot of different things about password and how to
+make them strong. Do not use your login as a password, do not use "qwerty" or
+any keyboard sequence, do not use your birth date or the name of your children.
+Mix uppercase with lower case, use number, use special characters like #, [ or
+^.
+
+These are all very good advice, but not very pratical in everyday life. Sure,
+your could create a super strong password like "x¬Iåf0²ù õ]åVþ6É¶iy", but
+honestly, will you ever remember it ? Will you even be able to type it ?
+
+On the other hand, it is true that the longer the password, the more secure it
+is. The larger the alphabet used, the better.
+
+Here is an example of a scheme one can use to create a strong password.
+
+First, you pick a small sentence. It is better to avoid famous quotes, and
+stick with very simple sentences, like "My neighbour is named Aldous". It is
+even better if one word does not exists in any dictionnary.  Maybe it is word
+you used when your were a child, maybe it was the name of one of your pet, or
+you just invented it, or you changed the letter order.
+
+For example, "My roubghnei is named Aldous". You can even throw a bit of
+special characters in it, like "My roubghnei name is : Aldous". I discourage
+using l33t sp34k in password as this can very easily be tested in an alphabet
+attack. It is just better to add number or punctuation where it does not make
+any sense.
+
+You can just stop here and you'd already have a strong password. Feel free to
+add more and more complexity to it, but be sure to still remember it, or at
+least remember how to get the final password from the initial sentence.
+
+What I also do is keep this master password as a base, but modify it for every
+new website. For example, if I'll connect to ebay, I could just change the
+password to "My roubghnei ebay is : Aldous". I can even complexify it a bit
+more, maybe changing the first and last letter of "Aldous" with the first and
+last letters of the website, making it "My roubghnei name is : Eldouy".
+
+Once again, add complexity as long as 1/ you can remember it and 2/ you end up
+with different passwords for each accounts.
+
+Using different email addresses
+-------------------------------
+Une pour les spams (shops, etc), une pour le perso, une pour le pro. Au moins,
+ça limite les dégats.
+
+Sites qui jouent pas le jeu
+---------------------------
+
+Si un site m'envoie mon email en clair lors de l'inscription, on efface le
+mail, et si possible on change le mot de passe. C'est pas très grave. S'ils le
+renvoient en clair quand on clique sur "mot de passe perdu" alors là c'est très
+grave. Prévenir les dev de l'erreur pour qu'ils le changent, et éviter
+d'utiliser le site web, changer le mot de passe.
+
+Dans l'idéal, on s'inscrit avec un pass weak. On teste la récupération de mot
+de passe. Si correcte, on change par un mot de passe plus fort.
